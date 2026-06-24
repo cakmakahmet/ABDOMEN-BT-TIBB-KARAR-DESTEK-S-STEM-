@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/overview.png" alt="Abdomen BT Analiz Sistemi" width="900"/>
+</p>
+
+
 # Abdomen BT Analiz: RT-DETR/RF-DETR Tabanlı Acil Patoloji Ön Değerlendirme Sistemi
 
 Bu proje, abdomen bilgisayarlı tomografi (BT) görüntülerinde acil değerlendirme gerektirebilecek patolojik bulguların yapay zekâ destekli olarak ön değerlendirilmesi amacıyla geliştirilmiştir. Sistem; derin öğrenme tabanlı nesne tespiti, açıklanabilir yapay zekâ (XAI), RAG/LLM destekli raporlama ve web tabanlı kullanıcı arayüzü bileşenlerini bir araya getiren uçtan uca bir klinik karar destek prototipidir.
