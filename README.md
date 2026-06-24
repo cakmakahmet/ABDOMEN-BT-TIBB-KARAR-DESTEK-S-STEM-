@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/overview.png.jpg" alt="Abdomen BT Analiz Sistemi" width="900"/>
+  <img src="assets/overview.png.jpg" alt="Abdomen BT Analiz Sistemi" width="300"/>
 </p>
 
 
